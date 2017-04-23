@@ -1,0 +1,28 @@
+{
+  "name": "@webwallet/hashtable",
+  "version": "1.0.0",
+  "description": "Key-value storage service for transactional data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webwallet/hashtable.git"
+  },
+  "keywords": [
+    "webwallet",
+    "couchbase"
+  ],
+  "author": "webwallet.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webwallet/hashtable/issues"
+  },
+  "homepage": "https://github.com/webwallet/hashtable#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "couchbase": "^2.3.2",
+    "require-directory": "^2.1.1"
+  }
+}
