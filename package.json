@@ -4,6 +4,7 @@
   "description": "Key-value storage service for transactional data.",
   "main": "index.js",
   "scripts": {
+    "preinstall": "node scripts/symlink",
     "test": "npm test"
   },
   "repository": {
