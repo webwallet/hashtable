@@ -1,6 +1,6 @@
 {
   "name": "@webwallet/hashtable",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Key-value storage service for transactional data.",
   "main": "index.js",
   "scripts": {
