@@ -22,8 +22,11 @@
   },
   "homepage": "https://github.com/webwallet/hashtable#readme",
   "dependencies": {
+    "@google-cloud/datastore": "1.4.0",
+    "@webwallet/schemas": "^1.0.0",
     "bluebird": "^3.5.0",
     "couchbase": "2.4.6",
+    "gstore-node": "4.2.1",
     "require-directory": "^2.1.1"
   }
 }
